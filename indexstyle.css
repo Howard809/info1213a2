@@ -1,0 +1,42 @@
+h1 {
+	font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+	font-family: 'Ubuntu Mono', monospace;
+	font-size: 30px;
+}
+
+.intro {
+	width: 30em;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+	background: rgba (218, 223, 227, 1);
+	font-size: 20px;
+}
+
+#pdf {
+	background: rgba(218, 223, 227,1);
+	font-size: 18px;
+}
+
+div {
+	width: 30em;
+	background: rgba(218, 223, 227, 1)
+	font-size:20px;
+}
+
+li {
+	list-style-type: circle;
+}
+
+h4 {
+	color: rgb(136, 201, 252);
+}
+
+body {
+	background: url(https://cdn.discordapp.com/attachments/605876717839450122/718661517494452285/tekkaman-blade_00318548.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}

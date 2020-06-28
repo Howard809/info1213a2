@@ -1,0 +1,28 @@
+p {
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	font-family: 'Press Start 2P', cursive;
+}
+
+table,
+td {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+thead, 
+tfoot {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+body {
+
+	background: url(https://cdn.discordapp.com/attachments/605876717839450122/726405063232192572/blu.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
